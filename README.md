@@ -1,4 +1,5 @@
 # deep-learning-lab
+
 정보 및 전산지능 연구실 소개 (강환일 교수)
 
 (1)딥러닝 (deep learning) 기반 음식인식 인식율 개선
@@ -13,6 +14,7 @@
 
 
 (3) 딥러닝(deep learning) 내용연구 
+
    3.1 Mobile net, Resnet 의 음식인식 응용 
    3.2 Adam, Adagrad, Adadelta 및 RMSProp 등 최적화 기법 비교 
    3.3 GPU 여부에 따른 성능 비교 
