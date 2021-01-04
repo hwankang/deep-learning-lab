@@ -22,3 +22,9 @@
    ### b. Adam, Adagrad, Adadelta 및 RMSProp 등 최적화 기법 비교 
    
    ### c. GPU 여부에 따른 성능 비교 
+   
+   
+   # 최근 연구내용 결과 
+   
+   [네이버](http://blog.naver.com/hwanilkang)
+   
