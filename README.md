@@ -24,8 +24,9 @@
    ### c. GPU 여부에 따른 성능 비교 
    
    
-   # 최근 연구내용 결과 
+   # 최근 연구내용 결과 <hwanilkang@naver.com>
    
    [네이버](http://blog.naver.com/hwanilkang)
    
 https://blog.naver.com/hwanilkang/222193708258
+
