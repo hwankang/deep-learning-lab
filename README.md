@@ -31,3 +31,4 @@
    
 https://blog.naver.com/hwanilkang/222193708258
 
+http://nextplatform.net/
