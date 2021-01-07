@@ -31,4 +31,6 @@
    
 https://blog.naver.com/hwanilkang/222193708258
 
+   # 1월 7일 동준상 책임 연구원 국방 인공지능 세미나 자료 
+
 http://nextplatform.net/
